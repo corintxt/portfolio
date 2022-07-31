@@ -1,4 +1,6 @@
 {"articles": [
+    {"date": "2022-02-05", "title": "FBI used geofence warrant in Seattle after BLM protest attack, new documents show ", "publication": "The Verge", "url": "https://www.theverge.com/2022/2/5/22918487/fbi-geofence-seattle-blm-protest-police-guild-attack"},
+    {"date": "2022-01-07", "title": "Discord hacking is the newest threat for NFT buyers", "publication": "The Verge", "url": "https://www.theverge.com/2022/1/7/22870912/nft-communities-boom-discord-hackers-cryptocurrency-webhooks"},
     {"date": "2021-08-10", "title": "How The Daily Wire Uses Facebook’s Targeted Advertising to Build Its Brand", "publication": "The Markup", "url": "https://themarkup.org/citizen-browser/2021/08/10/how-the-daily-wire-uses-facebooks-targeted-advertising-to-build-its-brand"},
     { "date": "2021-06-24", "title": "After Repeatedly Promising Not to, Facebook Keeps Recommending Political Groups to Its Users", "publication": "The Markup", "url": "https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users"},
     { "date": "2021-05-20", "title": "Facebook Said It Would Stop Recommending Anti-Vaccine Groups. It Didn’t", "publication": "The Markup", "url": "https://themarkup.org/citizen-browser/2021/05/20/facebook-said-it-would-stop-recommending-anti-vaccine-groups-it-didnt"},
